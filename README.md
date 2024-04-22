@@ -1,3 +1,5 @@
+## Video:https://youtu.be/gXd7ljrbxiY?si=i7l4drQhAVaruEOC
+
 Project Overview:
 
 My project utilizes the PEMS-08 dataset, which contains detailed traffic data from San Bernardino in the summer of 2016. This data covers traffic flow, occupancy, and speed across 170 locations, gathered every five minutes. The goal of my project is to predict traffic occupancy rates, which are a critical indicator of traffic volume and congestion.
