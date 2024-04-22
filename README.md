@@ -1,3 +1,10 @@
+Project Overview:
+
+My project utilizes the PEMS-08 dataset, which contains detailed traffic data from San Bernardino in the summer of 2016. This data covers traffic flow, occupancy, and speed across 170 locations, gathered every five minutes. The goal of my project is to predict traffic occupancy rates, which are a critical indicator of traffic volume and congestion.
+
+Why Occupancy?
+
+Occupancy reflects the proportion of time that a detector is occupied by a vehicle within a given interval. By predicting occupancy rates, we can identify potential hotspots of traffic congestion and optimize patrol routing and scheduling for law enforcement agencies, thereby enhancing public safety and resource management.
 Technical Approach:
 
 To tackle this challenge, I am developing a predictive model using Long Short-Term Memory networks (LSTMs), a type of recurrent neural network that is well-suited to modeling time-series data. This choice underscores the complexity of the problem due to the sequential nature of traffic data and its non-linear patterns.
